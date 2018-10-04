@@ -1,4 +1,4 @@
-class post
+class song
   attr_accessor :artist
   
   def initialize(artist)
